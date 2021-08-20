@@ -1,0 +1,11 @@
+spring:
+  mail:
+    username: 4a3f5a3e06ce23
+    password: cbb9127fd0cf52
+    host: smtp.mailtrap.io
+    port: 2525
+    protocol: smtp
+    auth: true
+    debug: true
+    starttls:
+      enable: true
